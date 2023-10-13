@@ -1,6 +1,6 @@
 ## Title
 
-This is just a sample Vite code to practice and myabe showcase
+This is just a sample Vite code to practice and maybe showcase
 
 ## License
 
